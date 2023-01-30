@@ -1,5 +1,9 @@
 # Fake News Detection using Machine Learning in Python
 
+*[project in progress]*
+
+![image](https://user-images.githubusercontent.com/96028654/215405033-c3e37053-f933-48a9-89d1-1945844625ba.png)
+
 ## Overview
 
 * In this project, we are developing a machine learning program to identify when an article might be fake news.
